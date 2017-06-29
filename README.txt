@@ -1,5 +1,3 @@
 # MyPrject
 
-This is just a test 
-
-OF TIME!
+A mear test of creativity
